@@ -1,0 +1,14 @@
+{
+    "name": "yeDukaan",
+    "url": "https://yedukaan.io/api/seller-front/order-list/",
+    "pagination": "true",
+    "headers": {
+        "Authorization": "Bearer eyJ0e1234567890"
+    },
+    "params": {
+        "created_at_after": "{start_date}",
+        "created_at_before": "{end_date}",
+        "ordering": "-created_at",
+        "utm_data": "True"
+    }
+}

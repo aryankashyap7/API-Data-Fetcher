@@ -1,0 +1,11 @@
+{
+    "name": "Gemmy",
+    "url": "https://www.gemmy.com/control/orderexportetmedia.php",
+    "pagination": "false",
+    "includes_end_date": "false",
+    "headers": {},
+    "params": {
+        "from": "{start_date}",
+        "to": "{end_date}"
+    }
+}

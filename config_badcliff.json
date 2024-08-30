@@ -1,0 +1,17 @@
+{
+    "name": "badcliff",
+    "url": "http://api.badcliff.com/api/lead/v2/",
+    "pagination": "true",
+    "precise_timestamp": "true",
+    "headers": {
+        "Cookie": "gDeviceId=d3287cc6-fb4c-414a-b5a3-1e8bb4f37739",
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Authorization": "Token eyJ01234567890"
+    },
+    "params": {
+        "key": "61936e0c-f670-11eb-a655-0a2e993da164",
+        "created_at__range": "{start_date},{end_date}"
+    }
+}
