@@ -1,4 +1,6 @@
-# API Data Fetcher
+i# API Data Fetcher
+
+![API Data Fetcher Banner](./assets/banner2.jpg)
 
 This Python script is designed to fetch data from an API based on a provided configuration file. The script handles pagination, date formatting, and saves the retrieved data into both JSON and CSV formats.
 
