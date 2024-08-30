@@ -1,4 +1,4 @@
-i# API Data Fetcher
+# API Data Fetcher
 
 ![API Data Fetcher Banner](./assets/banner2.jpg)
 
